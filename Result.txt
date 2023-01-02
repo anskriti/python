@@ -1,0 +1,6 @@
+Name: Ali Ek
+Student ID: CSE2202
+Batch ID: CSE22
+Roll Number: 2
+Course ID: C001	Course Name: Python	Percentage: 75	Grade: C	Status: PASS
+Course ID: C002	Course Name: Physics	Percentage: 36	Grade: F	Status: FAIL
